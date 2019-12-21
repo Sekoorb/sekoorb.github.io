@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "cbrookes0927@gmail.com"
+      #url: "yourname@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,13 +124,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://github.com/Sekoorb"
+      #url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://www.linkedin.com/in/chrismbrookes/"
+      url: "https://github.com/Sekoorb"
     - label: "LinkedIfn"
-      icon: "fab fa-fw fa-LinkedIn"
-      # url: "https://instagram.com/"
+      icon: "fab fa-fw fa-LinkedIn-square"
+      url: "https://www.linkedin.com/in/chrismbrookes/"
 
 # Site Footer
 footer:
