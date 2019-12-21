@@ -1,8 +1,8 @@
 ---
 layout: archive
-permalink: /data-sciencenetwork/
+permalink: /datascience/
 title: "Data Science Posts by Tags"
 author_profile: true
 header:
-    image: "/images/data-science.jpg"
+    image: "/images/data-sciencenetwork.jpg"
 ---
