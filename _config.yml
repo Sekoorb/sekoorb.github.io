@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Chris Brookes"
-  avatar           : "/Users/chrisbrookes/Documents/Important\ Documents/Headshot.jpg"
+  avatar           : "/Users/chrisbrookes/Documents/Important/Documents/Headshot.jpg"
   bio              : "Chris Brookes"
   location         : "Portland"
   email            : cbrookes0927@gmail.com
@@ -128,8 +128,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Sekoorb"
-    - label: "LinkedIfn"
-      icon: "fab fa-fw fa-LinkedIn-square"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/chrismbrookes/"
 
 # Site Footer
