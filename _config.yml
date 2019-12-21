@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Chris Brookes"
-  avatar           : "/Users/chrisbrookes/Desktop/sekoorb.github.io/assets/images/Headshot.jpg"
+  avatar           : "images/headshot.jpeg"
   bio              : "Data Science Portfolio"
   location         : "Portland"
   email            : cbrookes0927@gmail.com
