@@ -128,9 +128,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sekoorb"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-linkedin-tag"
-      url: "https://linkedin.com/chrismbrookes"
+    - label: "LinkedIn
+      icon: "fab fa-linkedin-in"
+      url: "https://linkedin.com/in/chrismbrookes"
 
 # Site Footer
 footer:
