@@ -61,6 +61,7 @@ author:
   name   : "Chris Brookes"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Data Science Portfolio"
+  location: "Portland"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
